@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+//Main
+void main(){
+
+//criando vetores
+int vetor[3];
+
+//passando valores
+vetor[0]=5;
+vetor[1]=10;
+vetor[2]=20;
+
+//imprimindo vetores
+printf ("\nposicao 0: %d", vetor[0]);
+printf ("\nposicao 1: %d", vetor[1]);
+printf ("\nposicao 2: %d", vetor[2]);
+
+//pausa o programa
+
+system("pause");
+
+}
