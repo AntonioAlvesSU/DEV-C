@@ -3,9 +3,11 @@
 
 void main(){
 
-    printf("HELLO");
+    printf("\nHELLO\n\n");
+
+    printf("\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n\n");
 
 
-    system("pause");
+    system("\npause");
 
     }
