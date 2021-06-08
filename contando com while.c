@@ -19,7 +19,7 @@ while (Res <=40){
 
        }else{
             printf("\nResultado da contagem é impar = %d ", Res);
-       printf("\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n\n");
+            printf("\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n\n");
 
        };
     Res++;
